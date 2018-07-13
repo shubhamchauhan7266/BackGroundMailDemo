@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BackGroundMailDemo</string>
+    <string name="send">Send</string>
+</resources>
